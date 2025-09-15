@@ -2,19 +2,34 @@ import IMG_5294 from "./IMG_5294.jpg";
 import "./App.css";
 const skills = [
   {
-    skill: "HTML+CSS",
+    skill: "Java",
     level: "advanced",
+    color: "#5ba4f8ff",
+  },
+  {
+    skill: "Spring Boot Core",
+    level: "advanced",
+    color: "#26ea40ff",
+  },
+  {
+    skill: "Spring data JPA",
+    level: "intermediate",
+    color: "#4dea26ff",
+  },
+  {
+    skill: "Spring MVC",
+    level: "beginner",
     color: "#2662EA",
   },
   {
-    skill: "JavaScript",
-    level: "advanced",
-    color: "#EFD81D",
+    skill: "HTML+CSS",
+    level: "intermediate",
+    color: "#ea7e26ff",
   },
   {
-    skill: "Web Design",
-    level: "advanced",
-    color: "#C3DCAF",
+    skill: "JavaScript",
+    level: "intermediate",
+    color: "#ffe100ff",
   },
   {
     skill: "Git and GitHub",
@@ -23,7 +38,7 @@ const skills = [
   },
   {
     skill: "React",
-    level: "advanced",
+    level: "intermediate",
     color: "#60DAFB",
   },
   {
